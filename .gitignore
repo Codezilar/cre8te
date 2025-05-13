@@ -1,0 +1,49 @@
+node_modules
+node_modules
+# Node dependencies
+node_modules/
+
+# Build outputs
+.next/
+out/
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local environment variables
+.env
+.env.local
+.env.*.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Deployment directories
+.vercel/
+.netlify/
+
+# Coverage reports
+coverage/
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+*.log
+
+# Git metadata (in case of submodules)
+.gitmodules
+
+# Cache
+.cache/
+turbo/

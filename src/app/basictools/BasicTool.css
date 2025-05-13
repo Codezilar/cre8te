@@ -1,0 +1,22 @@
+.BasicToolContainer{
+    padding: 0px 8rem;
+}
+
+@media (max-width: 800px) {
+    .BasicToolContainer{
+        padding: 0px 2.5rem;
+    }
+}
+
+
+@media (max-width: 769px) {
+    .BasicToolContainer{
+        padding: 0px 2rem;
+    }    
+}
+
+@media (max-width: 600px) {
+    .BasicToolContainer{
+        padding: 0px 1rem;
+    }    
+}
